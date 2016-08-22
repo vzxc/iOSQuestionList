@@ -14,3 +14,16 @@ C语言开发常见问题汇总：
 [03-AFNetWorking中https的SSL认证](Afnetworking-HTTPS/AFNetWorking中https的SSL认证.md)
 ----
 
+[04-3d_touch剖析(一)](3d_touch剖析（一）.md)
+-----
+[05-3d_touch剖析(二)](3d_touch剖析（二）.md)
+----
+[06-3d_touch剖析(一)](Afnetworking-HTTPS/AFNetWorking中https的SSL认证.md)
+----
+
+[07-vImage学习笔记——卷积](vImage学习笔记——卷积.mdown)
+----
+
+[08-vImage学习笔记](vImage学习笔记.mdown)
+----
+
